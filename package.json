@@ -1,0 +1,13 @@
+{
+  "name": "IndecisionApp",
+  "version": "1.0.0",
+  "description": "web app",
+  "main": "index.js",
+  "repository": "https://github.com/YangNiCarrie/IndecisionApp.git",
+  "author": "Yang Ni",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
