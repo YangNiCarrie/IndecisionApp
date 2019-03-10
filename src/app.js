@@ -1,4 +1,6 @@
-var template = <p>JSX</p>
-var appRoot = document.getElementById('app');
+import React from 'react';
+import ReactDOM from 'react-dom';
+import IndecisionApp from './components/IndecisionApp';
+import './styles/styles.scss';
 
-ReactDOM.render(template, appRoot);
+ReactDOM.render(<IndecisionApp />, document.getElementById('app'));
